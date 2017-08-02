@@ -1,0 +1,251 @@
+
+
+#list1 {
+	
+	
+	
+	width: 100%; height: 500px;
+	/*border: 1px solid red;*/
+	display: flex;
+	flex-grow: 1;
+	flex-direction:column;
+	flex-flow: column;
+	background-color: whitesmoke;
+	
+
+	
+}
+
+.tabe1 {
+	width: 100%; height: 60px;
+	/*border: 1px solid red;*/
+	margin-top: 20px;
+	background-color: white;
+		
+		display: flex;
+		justify-content:flex-start;
+		flex-direction: row;
+		align-items: center;
+}
+
+.icon {
+	width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	background: url(../img/31.png) no-repeat;
+	background-size: contain;
+	
+}
+.title {
+	width: 100px; height: 20px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	text-align: center;
+	
+}
+.icon1 {
+	width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	position: absolute;
+	right: 20px;
+	top: 22%;
+	background: url(../img/77.png) no-repeat;
+	background-size: contain;
+}
+
+.second {
+	
+	width: 100%; height: 120px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	margin-top: 20px;
+	display: flex;
+	flex-flow: column;
+	background-color: white;
+	
+}
+
+.div1 {
+	width: 100%; height: 60px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	display: flex;
+	flex-flow: row;
+	align-items: center;
+	
+}
+
+.RichScan {
+	
+	width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	background:url(../img/32.png) no-repeat;
+	background-size: contain;
+	padding-top: 1px;
+}
+ .div2 {
+ 	
+ 	width: 100%; height: 60px;
+	/*border: 1px solid red;*/
+	box-sizing: border-box;
+	display: flex;
+	flex-flow: row;
+	align-items: center;
+	
+	
+ }
+ .shark {
+ 	width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	background:url(../img/33.png) no-repeat;
+	background-size: contain;
+	padding-top: 1px;
+ 	
+ }
+ #nearby {
+ 	
+ 	width: 100%; height: 60px;
+	/*border: 1px solid red;*/
+	margin-top: 20px;
+	display: flex;
+	flex-flow: row;
+	align-items: center;
+	background-color: white;
+ 	
+ }
+ .nearbyIcon {
+ 	
+ 	
+ 	width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	background: url(../img/35.png) no-repeat;
+	
+	background-size: contain;
+	
+ }
+ .nearbytitle {
+ 	
+ 	width: 100px; height: 20px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	text-align: center;
+ }
+
+.shopandGame {
+	
+	background-color: white;
+	width: 100%; height: 120px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	margin-top: 20px;
+	display: flex;
+	flex-flow: column;
+	
+}
+
+.div1 {
+	width: 100%; height: 60px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	display: flex;
+	flex-flow: row;
+	align-items: center;
+	
+}
+
+.shopping {
+	
+	width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	background:url(../img/37.png) no-repeat;
+	background-size: contain;
+	    padding-top: -2px
+	
+}
+ .div2 {
+ 	
+ 	width: 100%; height: 60px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	display: flex;
+	flex-flow: row;
+	align-items: center;
+	
+	
+ }
+ .game {
+ 	
+ 	 width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	background:url(../img/38.png) no-repeat;
+	background-size: contain;   
+ }
+ 
+#code {
+ 	
+ 	background-color: white;width: 100%; height: 60px;
+	/*border: 1px solid red;*/
+	margin-top: 20px;
+	display: flex;
+	flex-flow: row;
+	align-items: center;
+ 	
+ }
+ 
+.codeIcon {
+	
+	width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	background: url(../img/123.png) no-repeat;
+	background-size: contain;
+	    padding-top: -2px;
+	
+}
+.codeTitle {
+	
+	width: 100px; height: 20px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	text-align: center;
+}
+
+#footer2 {
+	
+	width: 100%; height: 60px;
+	/*border: 1px solid red;*/
+	margin-top: 60px;
+	display: flex;
+	flex-flow: row;
+	/*align-content: center;*/
+	align-items: center;
+	justify-content: space-around;
+	background-color: white;
+	
+}
+#footer2 div {
+	width: 50px; height: 50px;
+	/*border: 1px solid red;*/
+	display: flex;
+	flex-flow: row;
+}
+
+.weChat1 {
+	
+	background: url(../img/13.png) no-repeat;
+	background-size: contain;
+	
+}
+.book {
+	
+	background:url(../img/16.png) no-repeat;
+	background-size: contain;
+}
+.discover {
+	
+	background: url(../img/333.png) no-repeat;
+	background-size: contain;
+}
+.me {
+	
+	background: url(../img/18.jpg) no-repeat;
+	background-size: contain;
+}

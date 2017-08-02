@@ -1,0 +1,101 @@
+
+#nav {
+	
+	width: 100%; height: 40px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	background-color: #393A3F;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	 
+}
+.net {
+	width: 33.3%; height: 40px;
+	/*border: 1px solid red;*/
+    display: flex;
+    align-items: center; 
+   text-indent: 10px;
+   color: white;
+}
+.time {
+	
+	width: 33.3%; height: 40px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	 display: flex;
+    align-items: center; 
+    justify-content: center;
+    color: white;
+}
+.batter {
+	
+	width: 30%; height: 40px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	display: flex;
+	position: relative;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+.batterBoder {
+	
+	width: 40px; height: 20px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	display: flex;
+	align-items: flex-end; 
+    justify-content: center;
+    position: absolute;
+    right: 0px;
+    top: 10px;
+	
+}
+ .batterBody {
+ 	width: 38px; height: 18px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	background-color: green;
+	display: flex;
+	background-color: white;
+	
+	align-items:center ; 
+    justify-content: flex-end;
+	
+ 	
+ }
+ .batterTop {
+ 	
+ 	width: 10px; height: 8px;
+	/*border: 1px solid red;
+	box-sizing: border-box;*/
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end; 
+    justify-content: center;
+    position: absolute;
+    right:40px;
+   align-items: center;
+   /*font-size: 12px;*/
+  background-color: white;
+	
+	
+ }
+ .txt {
+ 	
+ 	width: 20px; height: 18px;
+	/*border: 1px solid red;*/
+	box-sizing: border-box;
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	right: 15px;
+	/*bottom: 1px;*/
+	top: -4px;
+	color: white;
+	
+ 	
+ }
+
